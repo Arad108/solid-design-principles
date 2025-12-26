@@ -84,8 +84,10 @@ Each class now has **only one reason to change**.
 
 📁 Corrected design examples can be found here:
 
-solution/code
-solution/diagram
+📁 Corrected design examples can be found here:
+
+- [`solution/code`](./solution/code)
+- [`solution/diagram`](./solution/diagram)
 
 
 ---
